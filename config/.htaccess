@@ -1,0 +1,2 @@
+Options -indexes
+ErrorDocument 403 /alyx/error/403.php

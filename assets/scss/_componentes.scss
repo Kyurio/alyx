@@ -1,0 +1,27 @@
+.image-one {
+  background-color: red;
+  height: 400px;
+}
+
+.image-two {
+  background-color: blue;
+  height: 500px;
+}
+
+.image-three {
+  background-color: yellow;
+  height: 400px;
+}
+
+.navbar {
+  height: 90px;
+}
+
+.btn {
+  padding: 15px;
+}
+
+.btn-black {
+  background-color: $negro !important;
+  color: $blanco;
+}
