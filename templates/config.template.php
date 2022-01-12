@@ -11,4 +11,4 @@ define('DIRECCION', '');
 
 //ruta de el sitio
 define('RUTA_APP', dirname(dirname(__FILE__)));
-define('RUTA_URL', 'http://localhost/alyx/');
+define('RUTA_URL', 'http://localhost/alyxs/');

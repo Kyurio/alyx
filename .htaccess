@@ -1,0 +1,17 @@
+RewriteEngine on
+
+#Redirecciona al index
+RewriteRule ^$ /alyxs/views/index.php [L]
+
+#buscar el archivo ingresado en la url
+RewriteCond %{REQUEST_FILENAME} !-f
+
+#Urls amigables
+RewriteRule ^([a-zA-Z0-9/]+)$ /alyxs/views/$1.php [NC,L]
+
+
+#Error
+ErrorDocument 404 /alyxs/error/404.php
+ErrorDocument 500 /alyxs/error/500.php
+ErrorDocument 403 /alyxs/error/403.php
+ErrorDocument 300 /alyxs/error/300.php

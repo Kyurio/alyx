@@ -10,6 +10,10 @@ require_once("../componentes/galery.componentes.php");
 
 require_once("../componentes/contacto.componentes.php");
 
+require_once("../componentes/spam.componentes.php");
+
+require_once("../componentes/social.componentes.php");
+
 require_once("../componentes/footer.componentes.php");
 
 require_once("../templates/footer.template.php");
