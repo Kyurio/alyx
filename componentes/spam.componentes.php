@@ -1,5 +1,5 @@
 <section class="text-center mt-5 mb-5 py-5" id="spam">
-  <div class="container">
+  <div class="container mt-5 mb-5">
     <div class="row justify-content-center">
       <div class="col-lg-8">
         <div class="overflow-hidden">
@@ -8,7 +8,7 @@
         <div class="overflow-hidden">
           <p>No CSS is required for controlling layouts, colors, and typography.</p>
         </div>
-        <div><a class="btn btn-dark rounded-pill mt-4" href="#!">Join us today</a></div>
+        <div><a class="btn btn-dark mt-4" href="#!">Join us today</a></div>
       </div>
     </div>
   </div>

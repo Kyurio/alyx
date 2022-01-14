@@ -5,7 +5,7 @@ require_once("../templates/config.template.php");
 
 
 <!DOCTYPE html>
-<html lang="es" dir="es_CL">
+<html lang="es" dir="es">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

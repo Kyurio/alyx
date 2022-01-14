@@ -1,4 +1,5 @@
 .image-one {
+
   background-color: red;
   height: 400px;
   background-image: url("https://www.altobailen.com/wp-content/uploads/2017/10/gallinas.jpg");
@@ -9,6 +10,7 @@
 }
 
 .image-two {
+
   background-color: blue;
   height: 500px;
   background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frespuestas.tips%2Fwp-content%2Fuploads%2F2019%2F01%2FQui%25C3%25A9n-invent%25C3%25B3-la-cerveza.jpg&f=1&nofb=1");
@@ -16,9 +18,11 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+
 }
 
 .image-three {
+
   background-color: yellow;
   height: 400px;
   background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.aurana.es%2Fwp-content%2Fuploads%2F2020%2F07%2Fhuevos.png&f=1&nofb=1");
@@ -28,8 +32,37 @@
   background-size: cover;
 }
 
+.img-contact-one {
+
+  background-color: magenta;
+  height: 500px;
+  background-image: url("https://previews.123rf.com/images/iriana88w/iriana88w1207/iriana88w120700063/14295754-primavera-de-paisaje-y-r%C3%BAstica-caba%C3%B1a-de-registro-antiguo-.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.img-contact-two {
+
+  background-color: green;
+  height: 600px;
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.aurana.es%2Fwp-content%2Fuploads%2F2020%2F07%2Fhuevos.png&f=1&nofb=1");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.mt-7 {
+  margin-top: 15rem !important;
+}
+
 .navbar {
   height: 90px;
+  background-color: $blanco !important;
 }
 
 .btn {
